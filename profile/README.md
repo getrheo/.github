@@ -1,5 +1,5 @@
 <a href="https://getrheo.io">
-  <img alt="Rheo is the experimentation platform for mobile app flows." src="[https://i.imgur.com/FKnElp0.png](https://i.imgur.com/MPyNCQm.png)">
+  <img alt="Rheo is the experimentation platform for mobile app flows." src="https://i.imgur.com/MPyNCQm.png">
 </a>
 
   <h3 align="center">Rheo</h3>
