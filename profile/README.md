@@ -5,7 +5,7 @@
   <h3 align="center">Rheo</h3>
 
   <p align="center">
-    The experimentation platform for mobile app flows.
+    One Platform for Everything Growth
     <br />
     <br />
     <a href="https://getrheo.io">Website</a>
